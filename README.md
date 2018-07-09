@@ -8,24 +8,33 @@ Objective: It can predict if you're a cat or dog person based on:
   4) Favorite color: (Red, Orange, Yellow, Green, Blue, Purple, Pink, Black, White)
   5) Favorite number: (1-10)
 
+Flow:
+
+1)
+
 App: Landing page with start button
 
-  Landing page: "Answer 5 quick questions and let's see if my AI can guess if you're a cat or dog person"
+  Landing page: 
   
-                "We'll show you what cat and dog people normall answer to those questions!"
-                
+    "Answer 5 quick questions and let's see if my AI can guess if you're a cat or dog person"
+  
+    "We'll show you what cat and dog people normall answer to those questions!"
+
 User: Clicks start
 
+2)
 
 App: Presents questions
 
 User: Fills out questions
 
+3)
 
 App: Shows prediction
 
 User: Clicks got it! Or Nope!!
 
+4)
 
 App: Shows data and gives thanks and instructs to exit
 
